@@ -14,7 +14,7 @@ The project includes **data cleaning, transformation, data modeling, analysis, a
 
 # Dashboard Preview
 
-
+![FNP Dashboard](fnp Dashboard.png)
 
 ---
 
